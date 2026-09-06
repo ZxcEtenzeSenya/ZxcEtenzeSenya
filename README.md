@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=120&section=header&text=Welcome!&fontSize=35&animation=twinkling&fontColor=ffffff" />
+
 ## Hai there!! ≧ ﹏ ≦
 
 Pronous: Don`t specify
